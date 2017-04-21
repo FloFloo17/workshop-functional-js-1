@@ -10,6 +10,7 @@ const reverseYolo = input => {
     .flatten()
     .value();
 }
+// console.log(reverseYolo([00112247 + '033GKNORT']));
 
 module.exports = {
   reverseYolo: reverseYolo,
